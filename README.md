@@ -43,23 +43,6 @@ Aplikacja przechowuje kontakty w pamięci programu i działa w terminalu.
 
 ---
 
-## 🚀 Jak uruchomić projekt?
-1. Sklonuj projekt na swój komputer:
-   ```bash
-   git clone https://github.com/twoje-repo/contact-manager.git
-   ```
-2. Otwórz projekt w swoim ulubionym edytorze kodu lub IDE.
-3. Skompiluj kod źródłowy za pomocą kompilatora C++ (np. g++).
-   ```bash
-   g++ main.cpp -o contact_manager
-   ```
-4. Uruchom aplikację w terminalu:
-   ```bash
-   ./contact_manager
-   ```
-
----
-
 ## 📂 Struktura projektu
 ```
 ├── main.cpp       # Kod źródłowy programu
@@ -73,8 +56,3 @@ Aplikacja przechowuje kontakty w pamięci programu i działa w terminalu.
 - Możliwość edycji istniejących kontaktów.
 - Obsługa większej liczby pól (np. adres zamieszkania).
 - Graficzny interfejs użytkownika (GUI).
-
----
-
-## 📞 Kontakt
-W razie pytań dotyczących projektu proszę o kontakt pod adresem: **twojemail@example.com**
